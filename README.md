@@ -18,7 +18,7 @@ By downloading and using our applications, you agree to the practices described 
 
 ---
 
-## 2. The 17 Applications Covered
+## 2. The 18 Applications Covered
 
 This Privacy Policy applies to the following 17 applications:
 
@@ -39,6 +39,7 @@ This Privacy Policy applies to the following 17 applications:
 15. **Pulse** (Hardware Sensor Toolbox)
 16. **Echo** (Audio Amplifier / Microphone Utility)
 17. **VoxMorph** (Voice Changer & Text-to-Speech)
+18. QuickTip** ( Tip Generater ) Testing App
 
 *Note: ARSHX is not covered by this policy. It is a separate project and its privacy disclosures are handled separately.*
 
